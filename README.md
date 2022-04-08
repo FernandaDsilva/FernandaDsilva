@@ -1,16 +1,13 @@
-### Hi there 👋
+- Hi everyone 👋, I'm Fernanda Dias.
+- I living and working in Londrina-PR
+- Where I'll show my projects, statistics and experience. Feel free to reach out via email or any social media.
 
-<!--
-**FernandaDsilva/FernandaDsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/fernanda-dias-silva/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-dias-silva/" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <a href="https://www.instagram.com/falaprafeer">
+   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&for-the-badge&logo=instagram&logoColor=white">
+
